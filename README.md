@@ -96,7 +96,7 @@ You must have the following installed and configured:
 
 Run this command:
 ```
-git clone https://github.com/salsop/azure-fast-ha
+git clone https://github.com/PaloAltoNetworks/azure-terraform-vmseries-fast-ha-failover
 ```
 ### STEP 2: Create bootstrap folders.
 In the `bootstrap_files` folder create the empty bootstrap folders using the following commands:
